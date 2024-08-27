@@ -1,0 +1,18 @@
+<string_table>
+
+	<string id="st_wpn_ak101_sp">
+		<text>AK-101 Custom</text>
+	</string>
+	<string id="st_wpn_ak101_sp_descr">
+		<text>The AK-101 Custom has been modified by technicins of the zone to enhance the charactersitsc of the original AK-101. The front guard rail, dust cover, and stock have all been upgraded for better accuracy and modularity when it comes to accessories.
+		The muzzle device has also been replaced with one better suited to 5.56 rounds and as a result can also use a SOCOM supressor. Because the barrel is enclosed by the front guard, the "Guard" 30mm grenade launcher must be used instead of the standard GP-25 grenade launcher.\n \n </text>
+	</string>
+
+	<string id="st_mag_ak101_ext">
+		<text>Extended 5.56x45 AK-101 Magazine</text>
+	</string>
+	<string id="st_mag_ak101_ext_descr">
+		<text>%c[0,255,255,255]PROPERTIES:</text>
+	</string>
+
+</string_table>
